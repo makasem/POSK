@@ -1,6 +1,6 @@
 POSK
 ====
 
-Point of sales of Kasem
+POS of Kasem
 
-This is my first repository on GitHub.
+Point of sales is my first repository on GitHub.
